@@ -9,7 +9,7 @@
 ### Languages
   Studying: JavaScript 
 
-  Thinking about studying:  Python
+  Thinking about studying:  Python and C++
 
 
 #                                                                    **MY SETUP**
