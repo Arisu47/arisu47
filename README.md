@@ -1,16 +1,20 @@
-### Hi there 👋
+#                                                                    *Arisu*
 
-<!--
-**Arisu47/arisu47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="250" width="250"  src="https://github.com/Dean1337/Dean1337/blob/main/gif1.gif" />
 
-Here are some ideas to get you started:
+<p align="center">Hello, my name is Arisu, I'm 15 years old and I'm currently living in São Paulo, Brazil. I'm a programming student</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#                                                                    *Languages*
+
+### Languages
+  Studying: JavaScript 
+
+  Thinking about studying:  Python
+
+
+#                                                                    **MY SETUP**
+
+      Processador Intel Core i3 9100F 3.6GHz
+      Placa de Video NVIDIA GeForce GTX 1650 8GB
+      Memoria Ram (1x8) RAM Geil Orion 3600mhz
+      Monitor LED 24" 5ms 75Hz
